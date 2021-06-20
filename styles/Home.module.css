@@ -1,0 +1,9 @@
+.home {
+  padding: 24px 32px;
+}
+
+.home__cards {
+  display: flex;
+  justify-content: space-between;
+  margin: 16px 0px;
+}
